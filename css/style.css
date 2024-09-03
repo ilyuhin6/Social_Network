@@ -1,0 +1,23 @@
+body {
+  background-color: #e9ecef;
+  opacity: 1;
+}
+
+.header {
+  background-color: #ffffff;
+  padding: 3px 0px;
+}
+
+.dropdown-menu img {
+  display: block;
+  margin: 0 auto;
+}
+
+.dropdown-menu.show {
+  display: block;
+  width: 350px;
+}
+.dropdown-menu button {
+  display: block;
+  margin: 0 auto;
+}
